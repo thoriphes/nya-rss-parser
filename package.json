@@ -1,0 +1,19 @@
+{
+  "name": "nya-rss-parser",
+  "version": "1.0.0",
+  "description": "Name says it all",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thoriphes/nya-rss-parser.git"
+  },
+  "author": "Nacho (thoriphes)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thoriphes/nya-rss-parser/issues"
+  },
+  "homepage": "https://github.com/thoriphes/nya-rss-parser#readme"
+}
