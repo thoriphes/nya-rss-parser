@@ -4,7 +4,7 @@
   "description": "Name says it all",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/thoriphes/nya-rss-parser/issues"
   },
-  "homepage": "https://github.com/thoriphes/nya-rss-parser#readme"
+  "homepage": "https://github.com/thoriphes/nya-rss-parser#readme",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "axios-cookiejar-support": "^5.0.5",
+    "fast-xml-parser": "^4.5.1",
+    "tough-cookie": "^5.1.0"
+  }
 }
